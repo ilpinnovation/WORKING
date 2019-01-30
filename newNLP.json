@@ -1,0 +1,857 @@
+[{
+    "intent": "first",
+    "text": [
+        "When Will I get the offer Letter",
+        "I got a confirmation of shortlist, How Long Will it take to get my offer",
+        "when I may expect my offer to come",
+        "When will you send me my offer",
+        "How many days you need to give my offer",
+        "How many days TCS takes for offer",
+        "How many days usually you take for offer release",
+        "When Will I get the offer Letter?",
+        "I got a confirmation of shortlist, How Long Will it take to get my offer?",
+        "when I may expect my offer to come?",
+        "When will you send me my offer?",
+        "How many days you need to give my offer?",
+        "How many days TCS takes for offer?",
+        "How many days usually you take for offer release?"
+       
+    ],
+    "action": [
+        "After the Confirmation of your Shortlisting, You will receive your offers in 3-4 Working Days"
+    ],
+    "edit": false
+},
+{
+    "intent": "second",
+    "text": [
+        "Where Can I find the Offer Letter",
+        "Where Can I find the Offer Letter?",
+        "I have not received my offer yet",
+        "I haven't received my offer yet",
+        "I cannot find my offer",
+        "How to accept the offer",
+        "How to accept the offer?",
+        "Will I receive my offer in Email",
+        "How will i receive my offer letter",
+        "How will i receive my offer letter?",
+        "Where to go to accept my offer",
+        "Where is my offer letter",
+        "Where to go to accept my offer?",
+        "Where is my offer letter?",
+        "I have lost my offer confirmation email",
+        "Will I receive my offer in Email"
+        
+    ],
+    "action": [
+        "When your offer letter is released, you will receive an auto-generated email on your email ID , You can find your offer from the iBegin Portal through the link (https://ibegin.tcs.com/iBegin/ )"
+    ],
+    "edit": false
+},
+{
+    "intent": "third",
+    "text": [
+        "I have not received any Offer Confirmation call",
+        "I will get Call or Email for offer confirmation",
+        "Am I shortlisted",
+        "Am I selected",
+        "I got shortlisted, Have no written confirmation",
+        "Can you please send me offer confirmation",
+        "How do I know that I am selected",
+        "How would I get confirmation for my offer",
+        "How do I know that I am selected?",
+        "How would I get confirmation for my offer?",
+        "I will get Call or Email for offer confirmation"
+       
+    ],
+    "action": [
+        "You will receive your offer confirmation through Email"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "third",
+    "text": [
+        "In How many days I can accept my offer",
+        "In How many days the offer gets expire",
+        "What the span of offer acceptance",
+        "In How many days I can accept my offer?",
+        "In How many days the offer gets expire?",
+        "In How many days the offer will expire",
+        "What the span of offer acceptance?",
+        "last date for accept offer letter",
+        "What is the expiry date of offer link",
+        "What is the validity of the offer",
+        "by when I may accept my offer",
+        "How many days the offer",
+        "What is the maximum time I may take to accept the offer",
+        "For how many days the offer will be available"
+       
+    ],
+    "action": [
+        "Thanks for your question, you have a time period of 7 days to accept the offer from offer issued date after which the offer might get reverted"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "four",
+    "text": [
+        "Accepted the offer, What is the next step",
+        "i accepted offer letter then now what",
+        "after accepting offer letter",
+        "What I have to do after accepting the offer",
+        "What is the next step after accepting my offer",
+        "What next after offer acceptance",
+        "I have accepted the offer, When I may start",
+        "How to start BGC",
+        "What is BGC process",
+        "What is BGC process?",
+        "All set once I accepted the offer",
+        "In how many days I will get the BGC link",
+        "In how many days I will get the BGC link?",
+        "When will I get the BGC Link",
+        "How should I initiate my BGC",
+        "Do I have to upload my documents in BGC",
+        "What is the time period to upload my documents in BGC?",
+        "What is the next process after uploading my documents in BGC",
+        "when will I get cleared with my BGC after my offer",
+        "How will I know my BGC status",
+        "How should I submit my documents for bgc",
+        "How long will it take to get my BGC cleared",
+        "How long will it take to get my BGC cleared?"
+    ],
+    "action": [
+        "Once the offer is accepted, you shall receive a link, within 48 hours, from our vendor agency to initiate your background verifications"
+    ],
+    "edit": false
+
+}
+,
+{
+    "intent": "five",
+    "text": [
+        "When will I get the BGC Link",
+        "what about BGC link",
+        "When will I get the BGC Link?",
+        "what about BGC link?"
+        
+    ],
+    "action": [
+        "The next day after offer acceptance, if you do not get it on the next day please get in touch with the recruiter"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "extrafive",
+    "text": [
+        "what is BGC Link",
+        "what is BGC Link?"     
+        
+    ],
+    "action": [
+        "The next day after offer acceptance, you will get a link for background check to uppload document"
+    ],
+    "edit": false
+},
+
+{
+    "intent": "six",
+    "text": [
+        "in how many days I should upload the documents for BGC",
+        "in how many days I should upload the documents for BGC?",
+        "last date for uploading my document",
+        "when to upload document",
+        "when to upload document?",
+        "Is there a deadline to upload the documents for BGC",
+        "When should the documents be submitted",
+        "how many days I have to give my documents",
+        "By when I may give my documents?/ When should my documents be subbmitted",
+        "I don't have complete documents how much time I have to upload them",
+        "What is the validity of an hireright email",
+        "I got hireright email what is its validity",
+        "How long it would take for BGC to start",
+        "How long will it take to intiate BGC",
+        "How long will it take to intiate BGC?",
+        "Is there any possibilities of salary negotation after accepting my offer",
+        "What is the time period to upload my documents in BGC",
+        "What is the time period to upload my documents in BGC?"
+    ],
+    "action": [
+        "The ideal time to upload all documents is 2 days. Please complete this step at the earliest."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "seven",
+    "text": [
+        "How long will it take for the BGC Clearance",
+        "when will the BGC approval happen",
+        "delay in BGC approval",
+        "How much time it takes for BGC process",
+        "when will I get the confirmation after uploading the  documents If its been longtime what is the next process",
+        "What is the next process after uploading the documents",
+        "I have uploaded my documents what is next",
+        " What is the next process after uploading the documents",
+        "How many days TCS usually takes for BGC",
+        "how many days Hireright usually takes for BGC",
+        "When my BGC will be cleared",
+        "What is my BGC status",
+        "Is there a timeline on how long it may take to complete BGC"
+    ],
+    "action": [
+        "Background verification may take 7-10 working days, depending on the clearance."
+    ],
+    "edit": false
+
+}
+,
+{
+    "intent": "eight",
+    "text": [
+        "When will I get my Joining Date",
+        "What is my DOJ",
+        "When sholud I join TCS",
+        "when will I be starting my work",
+        "When will be my joining date",
+        "What will be my start date with TCS",
+        "what will be  my joining date",
+        "what is my joining date",
+        "what is my joining date?",
+        "Joining date",
+        "When to start working",
+        "What is my start date",
+        "When I will get my start date",
+        "can you confirm my start date",
+        "What is my start date",
+        "When will I get my confirmation date"
+    ],
+    "action": [
+        "It would be great for us to have you on-board at the earliest however your joining is subject to BGC clearance"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "nine",
+    "text": [
+        "How long does it take to transfer H1B",
+        "when will the H1B transfer",
+        "when my H1B transfer will be done",
+        "What is the timeline for H1B transfer",
+        "how much time required for H1B transfer",
+        "How long will it take for H1B transfer",
+        "Can I know my H1B visa transfer status",
+        "My H1B visa transfer is in progress how much time it will take",
+        "How long will it take for H1B Visa transfer process",
+        "Can I work while my H1B is in process",
+        "Can I start working before H1B transfer complete",
+        "Can I start working when I get receipt"
+    ],
+    "action": [
+        "As per the USCIS guidelines, once you have a receipt number on your new H1B transfer, you are eligible to start working for your new employer even before the H1B transfer is approved. Typically, it will take 2-3 months to transfer a H1B to a new employer with regular processing"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "ten",
+    "text": [
+        "Can I change the Date of Joining",
+        "change in joining date",
+        "issue with joining date can i change it",
+        "change DOJ",
+        "can you change my joining date",
+        "I want to postpone my joining",
+        "How can I postpone my joining date",
+        "I want to postpone my start date",
+        "What should I do to postpone my joining date",
+        "I want to delay my start date",
+        "what should I do to postpone my start date",
+        "What sholud I do if i am unable to join on the expectyed joining date",
+        "I cant join on my expected start date",
+        "can I change my start date with TCS",
+        "I would not be able to join on the date given",
+        "What sholud I do if iam unable to join on the expectyed joining date",
+        "I can not start on the date given to me",
+        "I cannot join on the given DOJ, can you please change to another date"
+    ],
+    "action": [
+        "Yes, It is possible. Since the joining dates are indicated in advance to the candidate and later formalised in letter of appointment. The Candidate has to request for the changed DOJ with their valid reason. We advise you to get in touch with your respective recruitement cordinator to request for a change in date of joining"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "eleven",
+    "text": [
+        "Can I Change the Role in my offer letter",
+        "how to change my role",
+        "i dont want this role can i change it"
+    ],
+    "action": [
+        "We hope the role mentioned in the offer letter is after discussing with you. If not, please get in touch with the recruiter for clarifications"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "twele",
+    "text": [
+        "Can I Negotiate the salary after I accepeted the offer",
+        "what was my salary",
+        "can i get higher salary",
+        "after accepting offer letter reject salary",
+        "Is there any possibilities of salary negotation after accepting my offer"
+    ],
+    "action": [
+        "Salary mentioned in the offer letter is post the HR interview, hence you may get in touch with the recruiter for any further queries on salary"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "thriteen",
+    "text": [
+        "May Know about the Benefits",
+        "is there any benefits in joining here",
+        "what are the policy",
+        "tell me about Benefits and policy",
+        "Can I know the benefits",
+        "Please share benefits details"
+    ],
+    "action": [
+        "During HR discussion, your respective recruiter would have shared the benefit sheet with you over email and discussed on the call. In case you have not yet received the same, we may suggest you to login to our New Hire portal to download a copy of the benefits sheet. Login credentials will be sent to you once your background check is completed https://dev.talent.tcsempowers.com/US/NewHires/login"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "fourteen",
+    "text": [
+        "May I know about the Bonus",        
+        "is there any bonus",
+        "what is use of joining here",
+        "What is the bonus for me",
+        "what is bonus policy of TCS",
+        "does TCS has a bonus policy",
+        "What will be my bonus",
+        "What is bonus in TCS",
+        "Am I eligible for bonus",
+        "Do you have bonus for entry level",
+        "what is joining bonus"
+    ],
+    "action": [
+        "Bonus component is discussed during the HR Discussions. In case you still have doubts about the same, we may suggest you to get in touch with your respective recruiter"
+    ],
+    "edit": false
+
+}
+,{
+    "intent": "fourteen12",
+    "text": [
+        "What is the relocation allowance",        
+        "Will I get paid something for relocation",
+        "Am I eligible to get joining bonus",
+        "What is the amount as joining bonus",
+        "What is TCS policy for joining bonus",
+        "What is TCS policy for relocation allowance",
+        "What I will get If I relocate",
+        "Will I get the reloaction allowance if I relocate in same state",
+        "What is the Joining bonus",
+        "What is the Joining bonus?"
+        
+    ],
+    "action": [
+        "We provide a one time sign on bonus which is subject to Eligibility and discussion with recruiter during HR interview"
+    ],
+    "edit": false
+
+}
+,
+{
+    "intent": "fifteen",
+    "text": [
+        "Will TCS provide the Parking Pass",
+        "Am I eligble for parking pass",
+        "help in parking pass",
+        "What is arrengement for parking",
+        "issue with parking pass",
+        "Is it payble parking",
+        "What facility I get at my reporting location",
+        "what will be the facilties I will get"
+    ],
+    "action": [
+        "May we suggest you to get in touch with the local HR of the facility where you are deployed."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "fifteen123",
+    "text": [
+        "Will TCS take care of the H1B transfer in preminum process",
+        "What is the process for Visa Transfer",
+        "what is the charege for Visa Transfer",
+        "What is the difference between premium and normal visa transfer",
+        "What is the process for Visa Transfer?",
+        "what is the charege for Visa Transfer?",
+        "What is the difference between premium and normal visa transfer?",
+        "I want my H1B visa to be transfered",
+        "How to get my Visa transferred",
+        "Does TCS sponser visa",
+        "what is policy in TCS for Visa transfer",
+        "Does TCS pays for Visa Transfer",
+        "Will TCS help in getting Green card in future",
+        "After how many years of service TCS will process green card",
+        "Am I eliglible for green Card",
+        "what is the criteria of getting green card with TCS",
+        "how I may apply for a green card",
+        "I have applied for green card. Will it afftect my joining in TCS",
+        "I have applied for green card. Will my joining afftect my green card process",
+        "Does TCS help in Green card process",
+        "I need help for my green card process"
+    ],
+    "action": [
+        "May we suggest you to get in touch with your respective recruiter"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "sixteen",
+    "text": [
+        "BGC is cleared my Joining date is not confirmed , What should I do",
+        "I have accepted the offer but now I do not want to join. What should I do",
+        "i dont like to joining here",
+        "can i reject the offer letter",
+        "When do I have to join TCS",
+        "When will I get my Joining Date",
+        "When I may start TCS",
+        "My start date with TCS",
+        "when I can join",
+        "what is my joining date with TCS",
+        "how long it will take to get my joining date",
+        "When to start working",
+        "What is my start date TCS",
+        "When I will get my start date with TCS",
+        "can you confirm my start date with TCS",
+        "I have tentative joining date in my Offer letter is that the final date I should report"
+    ],
+    "action": [
+        "May we suggest you to get in touch with the hiring manager. In case you do not have the details, respective recruiter can direct you to the hiring manager"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "seventeen",
+    "text": [
+        "I have tentative joining date in my Offer letter is that the final date I should report",
+        "I do not want to join TCS",
+        "I can not join TCS",       
+        "I won't be able to join",
+        "I decline the offer",
+        "I want to decline the offer",
+        "I could not join due to ",
+        "I have got another offer",
+        "I would decline the offer",
+        "I am no more available to join TCS"
+
+    ],
+    "action": [
+        "That’s unfortunate. Would you like to share any feedback for us to help us make things better. What could we have done better?"
+    ],
+    "edit": false
+
+},{
+    "intent": "eighteen",
+    "text": [
+        "hi",
+        "hey",
+        "how are you",
+        "welocome",
+        "hello"
+        
+    ],
+    "action": [
+        "Hi , Welcome back how was your day "
+    ],
+    "edit": false
+
+},{
+    "intent": "1",
+    "text": [
+        "Is my BGC cleared",
+        "What is my BGC status",
+        "what is the status of my Back ground check",
+        "I didn't got any confirmation for my BGC",
+        "When my BGC will be cleared",
+        "How would I know my BGC status",
+        "When will my BGC get cleared",
+        "How can I check if my BGC is cleared"
+        
+    ],
+    "action": [
+        "Upon completion of your Background verification prcoess, you shall receive an auto mailer from Hire Right regarding the same and guide you on the next steps. "
+    ],
+    "edit": false
+
+},{
+    "intent": "2",
+    "text": [
+        "My Tentative DOJ has passed and I received BGC clearance today, when am I supposed to join",
+        "I want to change my start date",
+        "how to change the start date on my offer",
+        "I cant join on the start date mentioned on my offer",
+        "Can't join on the satrt date given to me",
+        "want another date to start",
+        "My BGC is cleared, when can  join TCS"
+        
+    ],
+    "action": [
+        "May we suggest you to get in touch with the hiring manager/ Recruiter for the revised date of joining "
+    ],
+    "edit": false
+
+},
+{
+    "intent": "3",
+    "text": [
+        "What is the presence of TCS in North America",
+        "what is TCS",
+        "TCS in USA",
+        "Tell me about TCS",
+        "What is Tata Consultancy Services",
+        "Who are you",
+        "Where is TCS in US",
+        "Where is TCS in north America"
+        
+    ],
+    "action": [
+        "The United States and Canada together are referred to as the North American geography in the TCS operating model.  This geography is responsible for nearly 52% of TCS global revenues. TCS serves more than 500 clients in the United States with over 37,000 employees across 445 locations. Our clientele span many industries such as Banking, Insurance, Communications, Retail, Hi-Tech, Manufacturing, Healthcare, Utilities, Energy, Life Sciences, and more.   You can find more information about TCS on: https://www.tcs.com/ "
+    ],
+    "edit": false
+
+},{
+    "intent": "4",
+    "text": [
+        "When will I get my Employee ID",
+        "Where is my employee ID",
+        "I didn't received my employee id",
+        "I didn't get my employee ID",
+        "What is my ultimatix ID",
+        "when will you give me my employee ID",
+        "how will I get my employee ID",
+        "I need my employee ID",
+        "What is my TCS ID"
+        
+    ],
+    "action": [
+        "You will get your Employee ID in 72 hours from the initial date of joining."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "5",
+    "text": [
+        "When can I access Ultimatix",
+        "Ultimatix not working",
+        "how will ultimatix work",
+        "when I may login in ultimatix",
+        "my ultimatic is not working",
+        "I didn't received the ultimatix ID",
+        "I didn't received ultimatix login details",
+        "When ultimatix will start"
+    ],
+    "action": [
+        "You will be able to access Ultimatix within 12 hours of you receiving your employee ID."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "6",
+    "text": [
+        "How often and when will I be paid",
+        "what is my pay cycle",
+        "when I will be paid",
+        "When TCS will pay slary",
+        "What is salary cycle",
+        "when I will get my check",
+        "when I will get my pay check",
+        "what is salary schedule for TCS",
+        "When I may get my salary"
+    ],
+    "action": [
+        "Thanks for your question, your salary is paid on a bi-weekly schedule every other Friday as per the TCS Standard policy"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "7",
+    "text": [
+        "What is the TCS pay structure",
+        "what is base salary",
+        "what is bonus",
+        "What my salary is made up of"
+    ],
+    "action": [
+        "TCS provides industry benchmark and competitive compensation and benefits. Your pay structure is outlined in your offer letter."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "8",
+    "text": [
+        "What benefits does TCS offer",
+        "whats benefits I will have",
+        "what is TCS benefit policy",
+        "What are benefits for TCS Employees",
+        "What benefits I will get",
+        "Is there any possibilities of salary negotation after accepting my offer",
+        "I want to know all benefits I will get",
+        "What all benefits TCS will give me"
+    ],
+    "action": [
+        "TCS currently offers medical, dental, vision, life insurance, accidental death and dismemberment, business travel accident, and disability insurance. Additionally, TCS offers Flexible Spending Accounts, a 401(k) program, wellness benefits, and employee discounts. Details of these programs can be found at on the Benefits Page."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "9",
+    "text": [
+        "When will health benefits commence with TCS",
+        "What is the effective start date of my health benefits",
+        "since when my health policy will be effective"
+    ],
+    "action": [
+        "TCS benefits are effective on your first day of employment with TCS.  Options and procedures for enrollment are provided to you as part of your induction"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "10",
+    "text": [
+        "What is the paid time off policy in TCS",
+        "How many days paid leaves I have",
+        "what are paid leave policy with TCS",
+        "What is leave policy in TCS"
+    ],
+    "action": [
+        "TCS provides a standard vacation and leaves to all its employees as per industry standards, your offer letter should have details of your eligible leaves."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "11",
+    "text": [
+        "What is the holiday schedule at TCS",
+        "How many leaves we have",
+        "what are the number of paid leaves",
+        "how many days we have as holidays",
+        "What is the annual leave policy"
+    ],
+    "action": [
+        "TCS provides 10 holidays for employees in the U.S. for each calendar year. You can find the TCS 2018 Holiday Calendar in the Benefits Section. "
+    ],
+    "edit": false
+
+},
+{
+    "intent": "12",
+    "text": [
+        "How does the TCS 401(k) plan work",
+        "what is 401(k) plan",
+        "What are the benefits of 401(k) plan",
+        "what is 401(k)",
+        "how to use 401(k) plan"
+    ],
+    "action": [
+        "You can find details about TCS 401 (k) on the Benefits Page."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "13",
+    "text": [
+        "Does TCS have a pension plan",
+        "What is pension plan",
+        "what will be my pension",
+        "What is TCS pension policy",
+        "What is your pension policy"
+    ],
+    "action": [
+        "No, TCS does not have a pension plan. TCS has a 401(k) plan, the details of which are provided to you on the Benefits Page."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "14",
+    "text": [
+        "Where can I find more details on Benefit plans and premiums",
+        "what are benefits I will get",
+        "What is medical benefit",
+        "where I may get detail of benefits",
+        "Need details for medical policy of TCS?"
+    ],
+    "action": [
+        "A detailed explanation of TCS medical, dental, vision plans and plan premium information can be found on the Benefits Page. "
+    ],
+    "edit": false
+
+},
+{
+    "intent": "15",
+    "text": [
+        "Where can I find the list of in-network Medical and Dental practitioners to check if my current physician is on the list",
+        "Where I may get the treatment done",
+        "where tretment can be done",
+        "where I may us the medical policy",
+        "where we may use the medical benefits",
+        "where I may get my treatment"
+    ],
+    "action": [
+        "A list of participating in-network hospitals and medical practitioners can be found on the Benefits Page. "
+    ],
+    "edit": false
+
+},
+{
+    "intent": "16",
+    "text": [
+        "Does TCS have a ‘Work from Home’ policy",
+        "I want to work remote",
+        "Do you have remote work policy",
+        "Do I have option for working remotely",
+        "can I work remote also",
+        "What is TCS policy for remote work",
+"Does TCS have a ‘Work from Home’ policy?",
+        "I want to work remote?",
+        "Do you have remote work policy?",
+        "Do I have option for working remotely?",
+        "can I work remote also",
+        "What is TCS policy for remote work?"
+    ],
+    "action": [
+        "Yes, TCS has a telecommuting policy which allows for a flexible working arrangement or telecommuting with TCS’ approval. Please visit the Benefits Page to learn more about the policy. Please refer to your offer letter regarding your work location."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "17",
+    "text": [
+        "Will I have to designate my beneficiaries",
+        "How do I designate my beneficiaries",
+        "Will I have to designate my beneficiaries?",
+        "How do I designate my beneficiaries?"
+    ],
+    "action": [
+        "Yes, you will need to make beneficiary designations upon joining TCS.  You will be provided directions of the process during your new hire induction session. "
+    ],
+    "edit": false
+
+},
+{
+    "intent": "18",
+    "text": [
+        "How do career progression and promotions work within TCS",
+        "what are promotion policy in TCS",
+        "How to get promotions",
+        "What is the way of getting promotion in TCS",
+        "how do I get a career increment in TCS"
+    ],
+    "action": [
+        "In TCS, promotions are role-based and typically occur when employees take up new roles and responsibilities that are significantly higher than the current role. This is part of the TCS Performance Management process which is explained in greater detail during the New-Hire Connect program."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "19",
+    "text": [
+        "What is TCS’ performance appraisal process",
+        "How do we get performance appraisal",
+        "What is performance appraisal policy",
+        "How our performance will be evaluated",
+        "When performance appraisal will be done"
+    ],
+    "action": [
+        "TCS' fiscal year operates from April through March. Appraisals are goal and competency-oriented, and are conducted annually at the end of the fiscal year in March. The detailed procedure is covered during the New-Hire Connect program."
+    ],
+    "edit": false
+
+},
+{
+    "intent": "20",
+    "text": [
+        "What are the training and development avenues available in TCS",
+        "how i will be groomed in TCS",
+        "What training will be given",
+        "Is there any training for me",
+        "What do I have to be trained upon",
+        "What chances we have for training",
+        "What chances we have for development"
+    ],
+    "action": [
+        "Learning & Development is a key focus area for TCS, and employees we also have the option of participating in and benefiting from various training programs to ensure constant learning and growth "
+    ],
+    "edit": false
+
+},
+{
+    "intent": "nineteen",
+    "text": [
+        "fine",
+        "how about you",
+        "good"
+    ],
+    "action": [
+        "That's awesome,i'm here to help you please ask your question to me"
+    ],
+    "edit": false
+
+},
+{
+    "intent": "twenty",
+    "text": [
+        "thanks",
+        "thank you",
+        "bye"
+    ],
+    "action": [
+        "Thanks for connecting with us ,For any more query stay in touch"
+    ],
+    "edit": false
+
+}
+,
+{
+    "intent": "twenty1",
+    "text": [
+        "yes",
+        "ok",
+        "okey",
+        "okay",
+        "then"
+    ],
+    "action": [
+        "Hmmmm , i'm ready to answer",
+        "Thanks for connecting with us ,For any more query stay in touch"
+    ],
+    "edit": false
+
+}
+]

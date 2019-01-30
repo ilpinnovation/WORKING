@@ -1,0 +1,419 @@
+[
+    {
+        "intent": "greet",
+        "text": [
+            "hi",
+            "hey",
+            "hello",
+            "hello there",
+            "hey there",
+            "let's go",
+            "hey dude"
+        ],
+        "action": [
+            "Hi buddy , How are you?",
+            "How can i help you?",
+            "hi,i'm here to help you",
+            "Hey! How are you?"
+        ]
+    },
+    {
+        "intent": "resume_submit",
+        "text": [
+            "When is the last date for resume submission",
+            "resume submission date"
+        ],
+        "action": [
+            "26 AUG 2018"
+        ],
+        "edit": true
+    },
+    {
+        "intent": "resume_submit_who",
+        "text": [
+            "Who submitted my resume"
+        ],
+        "action": [
+            "Sitanshu sinha (Name of recruiter)"
+        ],
+        "edit": true
+    },
+    {
+        "intent": "resume_submit_who_get",
+        "text": [
+            "Where did you get my resume"
+        ],
+        "action": [
+            "Job portal(Dice,Monster,Linkedin)"
+        ],
+        "edit": true
+    },
+    {
+        "intent": "when_interview_time",
+        "text": [
+            "What is the interview timing? ",
+            "Interview timing",
+            "When is interview?"
+        ],
+        "action": [
+            "Walkin Drive will be accepting registrations between 9 AM EST to 3 PM EST "
+        ],
+        "edit": true
+    },
+    {
+        "intent": "contact_who_on_venue",
+        "text": [
+            "Whom should I Contact once reach the venue location?"
+        ],
+        "action": [
+            "Once you reach the venue, you can call Prithveesh at 513.485.7383 for any further direction  "
+        ],
+        "edit": true
+    },
+    {
+        "intent": "skill_looking_for",
+        "text": [
+            "What is the exact Skill you are looking for?"
+        ],
+        "action": [
+            "Someone who is having some basic understanding of Java OR .Net technology. Any prior experience of working on a project or working for an organization on related technologies will be good to have. "
+        ],
+        "edit": true
+    },
+    {
+        "intent": "want_human_to_talk",
+        "text": [
+            "I want to talk to a Human "
+        ],
+        "action": [
+            "We tried our best to help but it seems you have a query on which unfortnately we still don’t have an answer. We will let the team know to reach you out w/ an answer. Alternately, in case of urgency pls reach out to Ms. Anitha - email id, Contact number  "
+        ],
+        "edit": true
+    },
+    {
+        "intent": "interview_address",
+        "text": [
+            "What is the address of interview",
+            "What is the location",
+            "where should i come for interview",
+            "What is the interview location",
+            "where should i present for interview",
+            "which is the interview place",
+            "interview place"
+        ],
+        "action": [
+            "Tata Consultancy Services , 379 Thornall Street - 4th Floor Edison, New Jersey - 08837, United States"
+        ],
+        "edit": true
+    },
+    {
+        "intent": "company_name",
+        "text": [
+            "What is the company Name",
+            "What is the full name of TCS",
+            "What is the interview company Name"
+        ],
+        "action": [
+            "Tata consultancy services"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "interview_timing",
+        "text": [
+            "What is the interview timing",
+            "What time if the interview",
+            "When is interview",
+            "interview held on",
+            "interview timing",
+            "interview date",
+            "interview date and timing",
+            "how long it will take",
+            "how long interview will go"
+        ],
+        "action": [
+            "Walkin Drive will be accepting registrations between 9 AM EST to 3 PM EST"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "all_time",
+        "text": [
+            "Do I have to be there all day from 9-3",
+            "Do I have to be there for whole day",
+            "I can't spend whole day over there",
+            "any change in interview timing"
+        ],
+        "action": [
+            "No you have to come between 9:00 to 3:00 at ANYTIME"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "about_tcs",
+        "text": [
+            "May I know the company profile",
+            "Tell me about TCS",
+            "Tell me about Tata consultancy services",
+            "what is tcs",
+            "about TCS"
+        ],
+        "action": [
+            "Tata Consultancy Services is an IT services, consulting and business solutions organisation.TCS has over 400,000+ of the world’s best-trained consultants in over 46 countries across the globe. For more detail, you may want to visit our website www.tcs.com or TCS Career website www.careers.tcs.com"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "calendar_invite",
+        "text": [
+            "Can you send the calendar invite for the interview"
+        ],
+        "action": [
+            "Yes,With details like exact venue location,Timing of interview,SPOC contact details"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "face_to_face",
+        "text": [
+            "Is there a face-to-face interview",
+            "Do I have a face-to-face interview",
+            "i can't appear for face to face interview",
+            "Is there a face to face interview",
+            "can i have a phone interview",
+            "how to avoid face to face interview",
+            "I was never informed about face to face interview",
+            "not informed about face to face interview"
+        ],
+        "action": [
+            "We would like to appologise for missing out this information earlier but In-person interview is mandatory for this job. Do let us know in case you would want to re-schedule this interview. We can get back to you in case any other walk-in drive will be planned in your city"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "GPA_eligible",
+        "text": [
+            "I have low GPA - am I still eligible",
+            "if the GPA is below 3.0, still I am eligible",
+            "GPA eligible",
+            "3.0 GPA eligible"
+        ],
+        "action": [
+            "A GPA of at least 3.0 is a mandatory crietria. Below that GPA will not be acceptable"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "mobility",
+        "text": [
+            "Can you conduct Skype",
+            "Can you conduct Telephonic",
+            "can i have a phone interview"
+        ],
+        "action": [
+            "This is a walk-In Drive and we do not have the option of conducting telephonic/ Skype interviews. In-person interview is mandatory"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "Dress_code",
+        "text": [
+            "Dress code",
+            "Should I come in formal or casual",
+            "formal dress is necessary",
+            "can i wear casual dress"
+        ],
+        "action": [
+            "The dress code for the interview is business formals"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "second_interview",
+        "text": [
+            "I have already went for other location drive and rejected, still am I eligible to go for this drive",
+            "Can I interview second time",
+            "Do you consider candidates that have failed one interview in past",
+            "second time interview",
+            "first time failed"
+        ],
+        "action": [
+            "Yes. We can interview you again to see if any improvements in your knowledge and skills. "
+        ],
+        "edit": false
+    },
+    {
+        "intent": "preferable_location",
+        "text": [
+            "I already got selected in one location, But other location is preferable, can I attend the interview in that location or can you consider my selection for my preferable location",
+            "selected in other location",
+            "selection for my preferable location"
+        ],
+        "action": [
+            "Sorry, this would not be possible"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "position",
+        "text": [
+            "I don’t have the skill set that you are asking, am I eligible to apply for this position"
+        ],
+        "action": [
+            "Sorry for the inconvienence. We will not be able to consider since your skill/experience does not match the required skills or Knowledge."
+        ],
+        "edit": false
+    },
+    {
+        "intent": "remote_position",
+        "text": [
+            "Is it a remote position",
+            "work is in remote position",
+            "Is this the Full time position or contract"
+        ],
+        "action": [
+            "No this is 100% on site role",
+            "This is full time/Permanent role with TCS. "
+        ],
+        "edit": false
+    },
+    {
+        "intent": "salary_details",
+        "text": [
+            "What is the salary",
+            "What is the package",
+            "May I know the benefits breakouts",
+            "is there any bond for years",
+            "Can you send me the salary confirmation"
+        ],
+        "action": [
+            "TCS offers one of the best in the industry. Salary and benefits can be discussed in detail during the HR Discussion rounds"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "designation",
+        "text": [
+            "What is the exact Skill you are looking for",
+            "what is my designation",
+            "job role in tcs",
+            "what is my position in tcs"
+        ],
+        "action": [
+            "Someone who is having some basic understanding of Java OR .Net technology. Any prior experience of working on a project or working for an organization on related technologies will be good to have"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "expenses",
+        "text": [
+            "Can TCS provide the travel expenses",
+            "Can TCS provide the food expenses",
+            "can i get lunch",
+            "can i get breakfast",
+            "can i get food",
+            "will you provide me food",
+            "will you provide me lunch",
+            "will you provide food"
+        ],
+        "action": [
+            "Sorry that you should manage by yourself"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "training_peroid",
+        "text": [
+            "How long will be the training period",
+            "what is the training period",
+            "timeline of training period",
+            "timeperiod for training"
+        ],
+        "action": [
+            "Around 6 Weeks post joining not more then that"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "training_location",
+        "text": [
+            "Will the training session be in the same location",
+            "base location",
+            "will i get my baselocation",
+            "same location as base location after training"
+        ],
+        "action": [
+            "Highly the training location and your baselocation is same, but TCS reserves the right to change the Training location basis the need."
+        ],
+        "edit": false
+    },
+    {
+        "intent": "training_Accommodation",
+        "text": [
+            "Will TCS provide the Accommodation for training period",
+            "Accommodation during training",
+            "will you provide accommodation",
+            "will you provide stay during training"
+        ],
+        "action": [
+            "No, TCS does not provide accomodation and candidates are expected to take care of the same by themselves"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "College",
+        "text": [
+            "I have not completed my College yet can I still apply",
+            "i'm a student now can i apply",
+            "walk in drive for student"
+        ],
+        "action": [
+            "Student can also apply for this drive but you should a final year student as we cannot hold your offer for more then a year"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "degree",
+        "text": [
+            "I have only my associate degree is that fine"
+        ],
+        "action": [
+            "For this graduate hiring drive, we are accepting only Graduate or Masters degree holding candidates"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "available",
+        "text": [
+            "I’m not available on that day, Can you schedule for some other day",
+            "reschedule for some other day"
+        ],
+        "action": [
+            "Sure, will notify the team about your inability to come for an interview in this drive. We shall get back to you in case any other walk-in drive will be planned in your city"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "greet_and_ask",
+        "text": [
+            "hi how are you",
+            "hey how are you"
+        ],
+        "action": [
+            "Fine buddy ,How can i help you?"
+        ],
+        "edit": false
+    },
+    {
+        "intent": "pppp",
+        "text": [
+            "i'm fine",
+            "feeling cool",
+            "i'm fine how about you?"
+        ],
+        "action": [
+            "That's great ,How can i help you?"
+        ],
+        "edit": false
+    }
+]
